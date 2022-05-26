@@ -1,0 +1,65 @@
+*{margin: 1%;
+padding: 0;
+}
+
+#viaja{text-align: left;
+    font-family: 'Smooch', cursive;
+    font-size: 65px;
+    letter-spacing: 5px
+
+}
+#disfruta {text-align: center;
+    font-family: 'Smooch', cursive;
+    font-size: 40px;
+    letter-spacing: 5px
+}
+#desconecta {text-align:right;
+    font-family: 'Smooch', cursive;
+    font-size: 50px;
+    letter-spacing: 5px
+}
+#experimenta{text-align: left;
+    font-family: 'Smooch', cursive;
+    font-size: 30px;
+    letter-spacing: 5px
+}
+#vivi{text-align: center;
+    font-family: 'Smooch', cursive;
+    font-size: 55px;
+    letter-spacing: 5px
+}
+#seFeliz{text-align: right;
+    font-family: 'Smooch', cursive;
+    font-size: 60px;
+    letter-spacing: 5px;
+}
+h1 {text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height:30px
+}
+h2{ text-align: center;
+letter-spacing: 8px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2>p{text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 20px;
+}
+.img{display: flex;
+justify-content: center;
+width: 400px;
+height: 400px;}
+.lista{ display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
+.pie{
+    color: rgb(108, 106, 106);
+    background-color: rgb(57, 57, 57);
+    text-align: center;
+   }
